@@ -1,0 +1,7 @@
+D:\swabhav\New folder\BMI-app\bin\Debug\BMI-app.exe.config
+D:\swabhav\New folder\BMI-app\bin\Debug\BMI-app.exe
+D:\swabhav\New folder\BMI-app\bin\Debug\BMI-app.pdb
+D:\swabhav\New folder\BMI-app\obj\Debug\BMI-app.csproj.AssemblyReference.cache
+D:\swabhav\New folder\BMI-app\obj\Debug\BMI-app.csproj.CoreCompileInputs.cache
+D:\swabhav\New folder\BMI-app\obj\Debug\BMI-app.exe
+D:\swabhav\New folder\BMI-app\obj\Debug\BMI-app.pdb
