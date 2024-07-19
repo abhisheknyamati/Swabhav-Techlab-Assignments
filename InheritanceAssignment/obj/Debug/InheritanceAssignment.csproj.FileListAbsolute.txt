@@ -1,0 +1,7 @@
+D:\swabhav\New folder\InheritanceAssignment\bin\Debug\InheritanceAssignment.exe.config
+D:\swabhav\New folder\InheritanceAssignment\bin\Debug\InheritanceAssignment.exe
+D:\swabhav\New folder\InheritanceAssignment\bin\Debug\InheritanceAssignment.pdb
+D:\swabhav\New folder\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.AssemblyReference.cache
+D:\swabhav\New folder\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.CoreCompileInputs.cache
+D:\swabhav\New folder\InheritanceAssignment\obj\Debug\InheritanceAssignment.exe
+D:\swabhav\New folder\InheritanceAssignment\obj\Debug\InheritanceAssignment.pdb
