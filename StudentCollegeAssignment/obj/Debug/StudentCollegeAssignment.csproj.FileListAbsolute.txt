@@ -1,0 +1,7 @@
+D:\swabhav\New folder\StudentCollegeAssignment\bin\Debug\StudentCollegeAssignment.exe.config
+D:\swabhav\New folder\StudentCollegeAssignment\bin\Debug\StudentCollegeAssignment.exe
+D:\swabhav\New folder\StudentCollegeAssignment\bin\Debug\StudentCollegeAssignment.pdb
+D:\swabhav\New folder\StudentCollegeAssignment\obj\Debug\StudentCollegeAssignment.csproj.AssemblyReference.cache
+D:\swabhav\New folder\StudentCollegeAssignment\obj\Debug\StudentCollegeAssignment.csproj.CoreCompileInputs.cache
+D:\swabhav\New folder\StudentCollegeAssignment\obj\Debug\StudentCollegeAssignment.exe
+D:\swabhav\New folder\StudentCollegeAssignment\obj\Debug\StudentCollegeAssignment.pdb

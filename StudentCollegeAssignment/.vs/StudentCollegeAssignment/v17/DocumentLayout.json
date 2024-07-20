@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\swabhav\\New folder\\StudentCollegeAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CACC7A1-0BCE-4CB2-BA8C-BDD820C17C46}|StudentCollegeAssignment.csproj|d:\\swabhav\\new folder\\studentcollegeassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CACC7A1-0BCE-4CB2-BA8C-BDD820C17C46}|StudentCollegeAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CACC7A1-0BCE-4CB2-BA8C-BDD820C17C46}|StudentCollegeAssignment.csproj|d:\\swabhav\\new folder\\studentcollegeassignment\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CACC7A1-0BCE-4CB2-BA8C-BDD820C17C46}|StudentCollegeAssignment.csproj|solutionrelative:professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CACC7A1-0BCE-4CB2-BA8C-BDD820C17C46}|StudentCollegeAssignment.csproj|d:\\swabhav\\new folder\\studentcollegeassignment\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CACC7A1-0BCE-4CB2-BA8C-BDD820C17C46}|StudentCollegeAssignment.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CACC7A1-0BCE-4CB2-BA8C-BDD820C17C46}|StudentCollegeAssignment.csproj|d:\\swabhav\\new folder\\studentcollegeassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CACC7A1-0BCE-4CB2-BA8C-BDD820C17C46}|StudentCollegeAssignment.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 91,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\swabhav\\New folder\\StudentCollegeAssignment\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\swabhav\\New folder\\StudentCollegeAssignment\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:15:08.829Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "D:\\swabhav\\New folder\\StudentCollegeAssignment\\Professor.cs",
+              "RelativeDocumentMoniker": "Professor.cs",
+              "ToolTip": "D:\\swabhav\\New folder\\StudentCollegeAssignment\\Professor.cs",
+              "RelativeToolTip": "Professor.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:20:00.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\swabhav\\New folder\\StudentCollegeAssignment\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\swabhav\\New folder\\StudentCollegeAssignment\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:16:40.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\swabhav\\New folder\\StudentCollegeAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\swabhav\\New folder\\StudentCollegeAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:57:06.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
