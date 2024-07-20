@@ -1,0 +1,7 @@
+D:\swabhav\New folder\StudentApp\bin\Debug\StudentApp.exe.config
+D:\swabhav\New folder\StudentApp\bin\Debug\StudentApp.exe
+D:\swabhav\New folder\StudentApp\bin\Debug\StudentApp.pdb
+D:\swabhav\New folder\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+D:\swabhav\New folder\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+D:\swabhav\New folder\StudentApp\obj\Debug\StudentApp.exe
+D:\swabhav\New folder\StudentApp\obj\Debug\StudentApp.pdb
