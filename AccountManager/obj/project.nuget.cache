@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aCKA5HGm21s=",
+  "success": true,
+  "projectFilePath": "D:\\swabhav\\New folder\\AccountManager\\AccountManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhishek.nyamati\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

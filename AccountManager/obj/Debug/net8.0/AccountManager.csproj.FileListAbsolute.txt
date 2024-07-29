@@ -1,0 +1,17 @@
+D:\swabhav\New folder\AccountManager\bin\Debug\net8.0\AccountManager.exe
+D:\swabhav\New folder\AccountManager\bin\Debug\net8.0\AccountManager.deps.json
+D:\swabhav\New folder\AccountManager\bin\Debug\net8.0\AccountManager.runtimeconfig.json
+D:\swabhav\New folder\AccountManager\bin\Debug\net8.0\AccountManager.dll
+D:\swabhav\New folder\AccountManager\bin\Debug\net8.0\AccountManager.pdb
+D:\swabhav\New folder\AccountManager\obj\Debug\net8.0\AccountManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\swabhav\New folder\AccountManager\obj\Debug\net8.0\AccountManager.AssemblyInfoInputs.cache
+D:\swabhav\New folder\AccountManager\obj\Debug\net8.0\AccountManager.AssemblyInfo.cs
+D:\swabhav\New folder\AccountManager\obj\Debug\net8.0\AccountManager.csproj.CoreCompileInputs.cache
+D:\swabhav\New folder\AccountManager\obj\Debug\net8.0\AccountManager.dll
+D:\swabhav\New folder\AccountManager\obj\Debug\net8.0\refint\AccountManager.dll
+D:\swabhav\New folder\AccountManager\obj\Debug\net8.0\AccountManager.pdb
+D:\swabhav\New folder\AccountManager\obj\Debug\net8.0\AccountManager.genruntimeconfig.cache
+D:\swabhav\New folder\AccountManager\obj\Debug\net8.0\ref\AccountManager.dll
+D:\swabhav\New folder\AccountManager\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\swabhav\New folder\AccountManager\obj\Debug\net8.0\AccountManager.csproj.AssemblyReference.cache
+D:\swabhav\New folder\AccountManager\obj\Debug\net8.0\AccountM.924BF592.Up2Date

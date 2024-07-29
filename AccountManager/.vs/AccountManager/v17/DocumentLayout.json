@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\swabhav\\New folder\\AccountManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3B46FB-68F3-4655-80BB-682CA24191D7}|AccountManager.csproj|d:\\swabhav\\new folder\\accountmanager\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3B46FB-68F3-4655-80BB-682CA24191D7}|AccountManager.csproj|solutionrelative:accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3B46FB-68F3-4655-80BB-682CA24191D7}|AccountManager.csproj|d:\\swabhav\\new folder\\accountmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3B46FB-68F3-4655-80BB-682CA24191D7}|AccountManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3B46FB-68F3-4655-80BB-682CA24191D7}|AccountManager.csproj|d:\\swabhav\\new folder\\accountmanager\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3B46FB-68F3-4655-80BB-682CA24191D7}|AccountManager.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3B46FB-68F3-4655-80BB-682CA24191D7}|AccountManager.csproj|d:\\swabhav\\new folder\\accountmanager\\serializedeserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3B46FB-68F3-4655-80BB-682CA24191D7}|AccountManager.csproj|solutionrelative:serializedeserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 91,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\swabhav\\New folder\\AccountManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\swabhav\\New folder\\AccountManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T05:42:45.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\swabhav\\New folder\\AccountManager\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "D:\\swabhav\\New folder\\AccountManager\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T05:37:57.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SerializeDeserialize.cs",
+              "DocumentMoniker": "D:\\swabhav\\New folder\\AccountManager\\SerializeDeserialize.cs",
+              "RelativeDocumentMoniker": "SerializeDeserialize.cs",
+              "ToolTip": "D:\\swabhav\\New folder\\AccountManager\\SerializeDeserialize.cs",
+              "RelativeToolTip": "SerializeDeserialize.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T05:35:55.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "D:\\swabhav\\New folder\\AccountManager\\AccountManager.cs",
+              "RelativeDocumentMoniker": "AccountManager.cs",
+              "ToolTip": "D:\\swabhav\\New folder\\AccountManager\\AccountManager.cs",
+              "RelativeToolTip": "AccountManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:03:58.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
