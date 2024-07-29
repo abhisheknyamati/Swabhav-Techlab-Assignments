@@ -1,0 +1,36 @@
+D:\swabhav\New folder\MovieManager\bin\Debug\net8.0\MovieManager.exe
+D:\swabhav\New folder\MovieManager\bin\Debug\net8.0\MovieManager.deps.json
+D:\swabhav\New folder\MovieManager\bin\Debug\net8.0\MovieManager.runtimeconfig.json
+D:\swabhav\New folder\MovieManager\bin\Debug\net8.0\MovieManager.dll
+D:\swabhav\New folder\MovieManager\bin\Debug\net8.0\MovieManager.pdb
+D:\swabhav\New folder\MovieManager\obj\Debug\net8.0\MovieManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\swabhav\New folder\MovieManager\obj\Debug\net8.0\MovieManager.AssemblyInfoInputs.cache
+D:\swabhav\New folder\MovieManager\obj\Debug\net8.0\MovieManager.AssemblyInfo.cs
+D:\swabhav\New folder\MovieManager\obj\Debug\net8.0\MovieManager.csproj.CoreCompileInputs.cache
+D:\swabhav\New folder\MovieManager\obj\Debug\net8.0\MovieManager.dll
+D:\swabhav\New folder\MovieManager\obj\Debug\net8.0\refint\MovieManager.dll
+D:\swabhav\New folder\MovieManager\obj\Debug\net8.0\MovieManager.pdb
+D:\swabhav\New folder\MovieManager\obj\Debug\net8.0\MovieManager.genruntimeconfig.cache
+D:\swabhav\New folder\MovieManager\obj\Debug\net8.0\ref\MovieManager.dll
+D:\swabhav\New folder\MovieManager\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\swabhav\New folder\MovieManager\obj\Debug\net8.0\MovieManager.csproj.AssemblyReference.cache
+D:\swabhav\New folder\MovieManager\obj\Debug\net8.0\MovieMan.9895EC35.Up2Date
+D:\swabhav\New folder\MovieManager - Copy\bin\Debug\net8.0\MovieManager.exe
+D:\swabhav\New folder\MovieManager - Copy\bin\Debug\net8.0\MovieManager.deps.json
+D:\swabhav\New folder\MovieManager - Copy\bin\Debug\net8.0\MovieManager.runtimeconfig.json
+D:\swabhav\New folder\MovieManager - Copy\bin\Debug\net8.0\MovieManager.dll
+D:\swabhav\New folder\MovieManager - Copy\bin\Debug\net8.0\MovieManager.pdb
+D:\swabhav\New folder\MovieManager - Copy\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\swabhav\New folder\MovieManager - Copy\bin\Debug\net8.0\MovieDLL.dll
+D:\swabhav\New folder\MovieManager - Copy\bin\Debug\net8.0\MovieDLL.pdb
+D:\swabhav\New folder\MovieManager - Copy\obj\Debug\net8.0\MovieManager.csproj.AssemblyReference.cache
+D:\swabhav\New folder\MovieManager - Copy\obj\Debug\net8.0\MovieManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\swabhav\New folder\MovieManager - Copy\obj\Debug\net8.0\MovieManager.AssemblyInfoInputs.cache
+D:\swabhav\New folder\MovieManager - Copy\obj\Debug\net8.0\MovieManager.AssemblyInfo.cs
+D:\swabhav\New folder\MovieManager - Copy\obj\Debug\net8.0\MovieManager.csproj.CoreCompileInputs.cache
+D:\swabhav\New folder\MovieManager - Copy\obj\Debug\net8.0\MovieMan.9895EC35.Up2Date
+D:\swabhav\New folder\MovieManager - Copy\obj\Debug\net8.0\MovieManager.dll
+D:\swabhav\New folder\MovieManager - Copy\obj\Debug\net8.0\refint\MovieManager.dll
+D:\swabhav\New folder\MovieManager - Copy\obj\Debug\net8.0\MovieManager.pdb
+D:\swabhav\New folder\MovieManager - Copy\obj\Debug\net8.0\MovieManager.genruntimeconfig.cache
+D:\swabhav\New folder\MovieManager - Copy\obj\Debug\net8.0\ref\MovieManager.dll

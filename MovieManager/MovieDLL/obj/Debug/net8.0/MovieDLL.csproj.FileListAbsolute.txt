@@ -1,0 +1,12 @@
+D:\swabhav\New folder\MovieDLL\bin\Debug\net8.0\MovieDLL.deps.json
+D:\swabhav\New folder\MovieDLL\bin\Debug\net8.0\MovieDLL.dll
+D:\swabhav\New folder\MovieDLL\bin\Debug\net8.0\MovieDLL.pdb
+D:\swabhav\New folder\MovieDLL\obj\Debug\net8.0\MovieDLL.csproj.AssemblyReference.cache
+D:\swabhav\New folder\MovieDLL\obj\Debug\net8.0\MovieDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\swabhav\New folder\MovieDLL\obj\Debug\net8.0\MovieDLL.AssemblyInfoInputs.cache
+D:\swabhav\New folder\MovieDLL\obj\Debug\net8.0\MovieDLL.AssemblyInfo.cs
+D:\swabhav\New folder\MovieDLL\obj\Debug\net8.0\MovieDLL.csproj.CoreCompileInputs.cache
+D:\swabhav\New folder\MovieDLL\obj\Debug\net8.0\MovieDLL.dll
+D:\swabhav\New folder\MovieDLL\obj\Debug\net8.0\refint\MovieDLL.dll
+D:\swabhav\New folder\MovieDLL\obj\Debug\net8.0\MovieDLL.pdb
+D:\swabhav\New folder\MovieDLL\obj\Debug\net8.0\ref\MovieDLL.dll
