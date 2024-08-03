@@ -1,0 +1,28 @@
+D:\swabhav\New folder\College_ManyToOne\bin\Debug\net8.0\College_ManyToOne.exe
+D:\swabhav\New folder\College_ManyToOne\bin\Debug\net8.0\College_ManyToOne.deps.json
+D:\swabhav\New folder\College_ManyToOne\bin\Debug\net8.0\College_ManyToOne.runtimeconfig.json
+D:\swabhav\New folder\College_ManyToOne\bin\Debug\net8.0\College_ManyToOne.dll
+D:\swabhav\New folder\College_ManyToOne\bin\Debug\net8.0\College_ManyToOne.pdb
+D:\swabhav\New folder\College_ManyToOne\obj\Debug\net8.0\College_ManyToOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\swabhav\New folder\College_ManyToOne\obj\Debug\net8.0\College_ManyToOne.AssemblyInfoInputs.cache
+D:\swabhav\New folder\College_ManyToOne\obj\Debug\net8.0\College_ManyToOne.AssemblyInfo.cs
+D:\swabhav\New folder\College_ManyToOne\obj\Debug\net8.0\College_ManyToOne.csproj.CoreCompileInputs.cache
+D:\swabhav\New folder\College_ManyToOne\obj\Debug\net8.0\College_ManyToOne.dll
+D:\swabhav\New folder\College_ManyToOne\obj\Debug\net8.0\refint\College_ManyToOne.dll
+D:\swabhav\New folder\College_ManyToOne\obj\Debug\net8.0\College_ManyToOne.pdb
+D:\swabhav\New folder\College_ManyToOne\obj\Debug\net8.0\College_ManyToOne.genruntimeconfig.cache
+D:\swabhav\New folder\College_ManyToOne\obj\Debug\net8.0\ref\College_ManyToOne.dll
+D:\swabhav\dotnet\College_ManyToOne\bin\Debug\net8.0\College_ManyToOne.exe
+D:\swabhav\dotnet\College_ManyToOne\bin\Debug\net8.0\College_ManyToOne.deps.json
+D:\swabhav\dotnet\College_ManyToOne\bin\Debug\net8.0\College_ManyToOne.runtimeconfig.json
+D:\swabhav\dotnet\College_ManyToOne\bin\Debug\net8.0\College_ManyToOne.dll
+D:\swabhav\dotnet\College_ManyToOne\bin\Debug\net8.0\College_ManyToOne.pdb
+D:\swabhav\dotnet\College_ManyToOne\obj\Debug\net8.0\College_ManyToOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\swabhav\dotnet\College_ManyToOne\obj\Debug\net8.0\College_ManyToOne.AssemblyInfoInputs.cache
+D:\swabhav\dotnet\College_ManyToOne\obj\Debug\net8.0\College_ManyToOne.AssemblyInfo.cs
+D:\swabhav\dotnet\College_ManyToOne\obj\Debug\net8.0\College_ManyToOne.csproj.CoreCompileInputs.cache
+D:\swabhav\dotnet\College_ManyToOne\obj\Debug\net8.0\College_ManyToOne.dll
+D:\swabhav\dotnet\College_ManyToOne\obj\Debug\net8.0\refint\College_ManyToOne.dll
+D:\swabhav\dotnet\College_ManyToOne\obj\Debug\net8.0\College_ManyToOne.pdb
+D:\swabhav\dotnet\College_ManyToOne\obj\Debug\net8.0\College_ManyToOne.genruntimeconfig.cache
+D:\swabhav\dotnet\College_ManyToOne\obj\Debug\net8.0\ref\College_ManyToOne.dll
