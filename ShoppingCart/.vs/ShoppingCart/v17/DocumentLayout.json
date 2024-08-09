@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\swabhav\\dotnet\\ShoppingCart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17009D0F-F2C7-4CF2-BAD9-E6A17476CD6D}|ShoppingCart.csproj|d:\\swabhav\\dotnet\\shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17009D0F-F2C7-4CF2-BAD9-E6A17476CD6D}|ShoppingCart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17009D0F-F2C7-4CF2-BAD9-E6A17476CD6D}|ShoppingCart.csproj|d:\\swabhav\\dotnet\\shoppingcart\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17009D0F-F2C7-4CF2-BAD9-E6A17476CD6D}|ShoppingCart.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17009D0F-F2C7-4CF2-BAD9-E6A17476CD6D}|ShoppingCart.csproj|d:\\swabhav\\dotnet\\shoppingcart\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17009D0F-F2C7-4CF2-BAD9-E6A17476CD6D}|ShoppingCart.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17009D0F-F2C7-4CF2-BAD9-E6A17476CD6D}|ShoppingCart.csproj|d:\\swabhav\\dotnet\\shoppingcart\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17009D0F-F2C7-4CF2-BAD9-E6A17476CD6D}|ShoppingCart.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17009D0F-F2C7-4CF2-BAD9-E6A17476CD6D}|ShoppingCart.csproj|d:\\swabhav\\dotnet\\shoppingcart\\model\\lineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17009D0F-F2C7-4CF2-BAD9-E6A17476CD6D}|ShoppingCart.csproj|solutionrelative:model\\lineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 91,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\swabhav\\dotnet\\ShoppingCart\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Model\\Customer.cs",
+              "ToolTip": "D:\\swabhav\\dotnet\\ShoppingCart\\Model\\Customer.cs",
+              "RelativeToolTip": "Model\\Customer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:41:09.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\swabhav\\dotnet\\ShoppingCart\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "D:\\swabhav\\dotnet\\ShoppingCart\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:32:48.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LineItem.cs",
+              "DocumentMoniker": "D:\\swabhav\\dotnet\\ShoppingCart\\Model\\LineItem.cs",
+              "RelativeDocumentMoniker": "Model\\LineItem.cs",
+              "ToolTip": "D:\\swabhav\\dotnet\\ShoppingCart\\Model\\LineItem.cs",
+              "RelativeToolTip": "Model\\LineItem.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:19:35.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\swabhav\\dotnet\\ShoppingCart\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "D:\\swabhav\\dotnet\\ShoppingCart\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAzwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:12:45.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\swabhav\\dotnet\\ShoppingCart\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\swabhav\\dotnet\\ShoppingCart\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:10:37.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
