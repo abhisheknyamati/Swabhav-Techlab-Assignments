@@ -1,0 +1,14 @@
+D:\swabhav\dotnet\GuiterApp\bin\Debug\net8.0\GuiterApp.exe
+D:\swabhav\dotnet\GuiterApp\bin\Debug\net8.0\GuiterApp.deps.json
+D:\swabhav\dotnet\GuiterApp\bin\Debug\net8.0\GuiterApp.runtimeconfig.json
+D:\swabhav\dotnet\GuiterApp\bin\Debug\net8.0\GuiterApp.dll
+D:\swabhav\dotnet\GuiterApp\bin\Debug\net8.0\GuiterApp.pdb
+D:\swabhav\dotnet\GuiterApp\obj\Debug\net8.0\GuiterApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\swabhav\dotnet\GuiterApp\obj\Debug\net8.0\GuiterApp.AssemblyInfoInputs.cache
+D:\swabhav\dotnet\GuiterApp\obj\Debug\net8.0\GuiterApp.AssemblyInfo.cs
+D:\swabhav\dotnet\GuiterApp\obj\Debug\net8.0\GuiterApp.csproj.CoreCompileInputs.cache
+D:\swabhav\dotnet\GuiterApp\obj\Debug\net8.0\GuiterApp.dll
+D:\swabhav\dotnet\GuiterApp\obj\Debug\net8.0\refint\GuiterApp.dll
+D:\swabhav\dotnet\GuiterApp\obj\Debug\net8.0\GuiterApp.pdb
+D:\swabhav\dotnet\GuiterApp\obj\Debug\net8.0\GuiterApp.genruntimeconfig.cache
+D:\swabhav\dotnet\GuiterApp\obj\Debug\net8.0\ref\GuiterApp.dll

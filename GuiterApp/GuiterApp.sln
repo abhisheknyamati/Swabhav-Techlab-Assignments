@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiterApp", "GuiterApp.csproj", "{F9EF56F7-3F84-4414-A691-48082A1BB48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9EF56F7-3F84-4414-A691-48082A1BB48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EF56F7-3F84-4414-A691-48082A1BB48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EF56F7-3F84-4414-A691-48082A1BB48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EF56F7-3F84-4414-A691-48082A1BB48D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1269CBEB-EC44-477A-AA34-D01FDD1B9171}
+	EndGlobalSection
+EndGlobal

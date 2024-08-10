@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\swabhav\\dotnet\\GuiterApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EF56F7-3F84-4414-A691-48082A1BB48D}|GuiterApp.csproj|d:\\swabhav\\dotnet\\guiterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EF56F7-3F84-4414-A691-48082A1BB48D}|GuiterApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EF56F7-3F84-4414-A691-48082A1BB48D}|GuiterApp.csproj|d:\\swabhav\\dotnet\\guiterapp\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EF56F7-3F84-4414-A691-48082A1BB48D}|GuiterApp.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EF56F7-3F84-4414-A691-48082A1BB48D}|GuiterApp.csproj|d:\\swabhav\\dotnet\\guiterapp\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EF56F7-3F84-4414-A691-48082A1BB48D}|GuiterApp.csproj|solutionrelative:guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 91,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\swabhav\\dotnet\\GuiterApp\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "D:\\swabhav\\dotnet\\GuiterApp\\Inventory.cs",
+              "RelativeToolTip": "Inventory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwDIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:17:55.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Guitar.cs",
+              "DocumentMoniker": "D:\\swabhav\\dotnet\\GuiterApp\\Guitar.cs",
+              "RelativeDocumentMoniker": "Guitar.cs",
+              "ToolTip": "D:\\swabhav\\dotnet\\GuiterApp\\Guitar.cs",
+              "RelativeToolTip": "Guitar.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:13:21.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\swabhav\\dotnet\\GuiterApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\swabhav\\dotnet\\GuiterApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:10:36.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
