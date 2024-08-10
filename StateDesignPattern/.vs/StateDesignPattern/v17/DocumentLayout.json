@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\swabhav\\dotnet\\DesignPattern\\StateDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{357D1B27-30A1-414A-AC99-0A471EEA7D28}|StateDesignPattern.csproj|d:\\swabhav\\dotnet\\designpattern\\statedesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357D1B27-30A1-414A-AC99-0A471EEA7D28}|StateDesignPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357D1B27-30A1-414A-AC99-0A471EEA7D28}|StateDesignPattern.csproj|d:\\swabhav\\dotnet\\designpattern\\statedesignpattern\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357D1B27-30A1-414A-AC99-0A471EEA7D28}|StateDesignPattern.csproj|solutionrelative:istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357D1B27-30A1-414A-AC99-0A471EEA7D28}|StateDesignPattern.csproj|d:\\swabhav\\dotnet\\designpattern\\statedesignpattern\\establishedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357D1B27-30A1-414A-AC99-0A471EEA7D28}|StateDesignPattern.csproj|solutionrelative:establishedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357D1B27-30A1-414A-AC99-0A471EEA7D28}|StateDesignPattern.csproj|d:\\swabhav\\dotnet\\designpattern\\statedesignpattern\\listeningstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357D1B27-30A1-414A-AC99-0A471EEA7D28}|StateDesignPattern.csproj|solutionrelative:listeningstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357D1B27-30A1-414A-AC99-0A471EEA7D28}|StateDesignPattern.csproj|d:\\swabhav\\dotnet\\designpattern\\statedesignpattern\\closedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357D1B27-30A1-414A-AC99-0A471EEA7D28}|StateDesignPattern.csproj|solutionrelative:closedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357D1B27-30A1-414A-AC99-0A471EEA7D28}|StateDesignPattern.csproj|d:\\swabhav\\dotnet\\designpattern\\statedesignpattern\\tcpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357D1B27-30A1-414A-AC99-0A471EEA7D28}|StateDesignPattern.csproj|solutionrelative:tcpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 91,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TCPConnection.cs",
+              "DocumentMoniker": "D:\\swabhav\\dotnet\\DesignPattern\\StateDesignPattern\\TCPConnection.cs",
+              "RelativeDocumentMoniker": "TCPConnection.cs",
+              "ToolTip": "D:\\swabhav\\dotnet\\DesignPattern\\StateDesignPattern\\TCPConnection.cs",
+              "RelativeToolTip": "TCPConnection.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:38:41.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClosedState.cs",
+              "DocumentMoniker": "D:\\swabhav\\dotnet\\DesignPattern\\StateDesignPattern\\ClosedState.cs",
+              "RelativeDocumentMoniker": "ClosedState.cs",
+              "ToolTip": "D:\\swabhav\\dotnet\\DesignPattern\\StateDesignPattern\\ClosedState.cs",
+              "RelativeToolTip": "ClosedState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:38:10.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListeningState.cs",
+              "DocumentMoniker": "D:\\swabhav\\dotnet\\DesignPattern\\StateDesignPattern\\ListeningState.cs",
+              "RelativeDocumentMoniker": "ListeningState.cs",
+              "ToolTip": "D:\\swabhav\\dotnet\\DesignPattern\\StateDesignPattern\\ListeningState.cs",
+              "RelativeToolTip": "ListeningState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:37:43.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstablishedState.cs",
+              "DocumentMoniker": "D:\\swabhav\\dotnet\\DesignPattern\\StateDesignPattern\\EstablishedState.cs",
+              "RelativeDocumentMoniker": "EstablishedState.cs",
+              "ToolTip": "D:\\swabhav\\dotnet\\DesignPattern\\StateDesignPattern\\EstablishedState.cs",
+              "RelativeToolTip": "EstablishedState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:37:23.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IState.cs",
+              "DocumentMoniker": "D:\\swabhav\\dotnet\\DesignPattern\\StateDesignPattern\\IState.cs",
+              "RelativeDocumentMoniker": "IState.cs",
+              "ToolTip": "D:\\swabhav\\dotnet\\DesignPattern\\StateDesignPattern\\IState.cs",
+              "RelativeToolTip": "IState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:36:40.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\swabhav\\dotnet\\DesignPattern\\StateDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\swabhav\\dotnet\\DesignPattern\\StateDesignPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:35:04.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
