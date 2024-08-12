@@ -1,0 +1,7 @@
+D:\swabhav\New folder\StructPOC\obj\Debug\StructPOC.csproj.AssemblyReference.cache
+D:\swabhav\New folder\StructPOC\obj\Debug\StructPOC.csproj.CoreCompileInputs.cache
+D:\swabhav\New folder\StructPOC\bin\Debug\StructPOC.exe.config
+D:\swabhav\New folder\StructPOC\bin\Debug\StructPOC.exe
+D:\swabhav\New folder\StructPOC\bin\Debug\StructPOC.pdb
+D:\swabhav\New folder\StructPOC\obj\Debug\StructPOC.exe
+D:\swabhav\New folder\StructPOC\obj\Debug\StructPOC.pdb
