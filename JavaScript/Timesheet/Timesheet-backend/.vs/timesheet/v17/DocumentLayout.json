@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abhishek.nyamati\\Downloads\\javascript\\timesheet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B39C397-CD8A-41D9-9C17-DA6A1D130036}|timesheet.csproj|c:\\users\\abhishek.nyamati\\downloads\\javascript\\timesheet\\controllers\\timesheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B39C397-CD8A-41D9-9C17-DA6A1D130036}|timesheet.csproj|solutionrelative:controllers\\timesheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B39C397-CD8A-41D9-9C17-DA6A1D130036}|timesheet.csproj|c:\\users\\abhishek.nyamati\\downloads\\javascript\\timesheet\\model\\timesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B39C397-CD8A-41D9-9C17-DA6A1D130036}|timesheet.csproj|solutionrelative:model\\timesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B39C397-CD8A-41D9-9C17-DA6A1D130036}|timesheet.csproj|c:\\users\\abhishek.nyamati\\downloads\\javascript\\timesheet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B39C397-CD8A-41D9-9C17-DA6A1D130036}|timesheet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.nyamati\\Downloads\\javascript\\timesheet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\abhishek.nyamati\\Downloads\\javascript\\timesheet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T04:37:51.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Timesheet.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.nyamati\\Downloads\\javascript\\timesheet\\Model\\Timesheet.cs",
+              "RelativeDocumentMoniker": "Model\\Timesheet.cs",
+              "ToolTip": "C:\\Users\\abhishek.nyamati\\Downloads\\javascript\\timesheet\\Model\\Timesheet.cs",
+              "RelativeToolTip": "Model\\Timesheet.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:45:17.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimesheetController.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.nyamati\\Downloads\\javascript\\timesheet\\Controllers\\TimesheetController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TimesheetController.cs",
+              "ToolTip": "C:\\Users\\abhishek.nyamati\\Downloads\\javascript\\timesheet\\Controllers\\TimesheetController.cs",
+              "RelativeToolTip": "Controllers\\TimesheetController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:24:53.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
